@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Greeshma-Reddy
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning new techs
+- 👀 I’m interested in pursuing a career in Data Science
+- 🌱 Discover-Scrub-Explore-Model-Result
 - 📫 How to reach me i.greeshma@gmail.com
 
 <!---
