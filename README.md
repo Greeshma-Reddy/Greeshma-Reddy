@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Greeshma-Reddy
-- 👀 I’m interested in pursuing a career in Data Science
+- 👀 I’m interested in DATA
 - 🌱 Discover-Scrub-Explore-Model-Result
 - 📫 How to reach me i.greeshma@gmail.com
 
