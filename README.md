@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Greeshma-Reddy
-- 👀 I’m interested in DATA
+- 👀 Interested in DATA
 - 🌱 Discover-Scrub-Explore-Model-Result
 - 📫 How to reach me i.greeshma77@gmail.com
 
