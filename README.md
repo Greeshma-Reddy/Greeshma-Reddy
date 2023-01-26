@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Greeshma-Reddy
 - 👀 I’m interested in DATA
 - 🌱 Discover-Scrub-Explore-Model-Result
-- 📫 How to reach me i.greeshma@gmail.com
+- 📫 How to reach me i.greeshma77@gmail.com
 
 <!---
 Greeshma-Reddy/Greeshma-Reddy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
